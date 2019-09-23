@@ -1,10 +1,10 @@
-# MyFirstApp
+# My-First-App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
 
 ## Tutorial 
 
-Read tutorial [Getting Started with Angular - Your First App](https://vjtechdiary.blogspot.com/2019/09/getting-started-with-angular.html) on [VJ Tech Diary](https://vjtechdiary.blogspot.com). 
+Read tutorial [Getting Started with Angular - Your First App](https://www.vjtechworld.com/2019/09/getting-started-with-angular.html) on [VJ Tech World](https://www.vjtechworld.com/). 
 
 ## Install Dependencies
 
